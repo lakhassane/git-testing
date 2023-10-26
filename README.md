@@ -1,2 +1,4 @@
 # git-testing
-Just testing about Git commands
+Testing about Git commands
+
+i'm adding new things to it
